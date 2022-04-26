@@ -1,4 +1,8 @@
 import React, { useState } from 'react';
+// use
+// component's name name must be uppercase
+// must be in function / component's body
+// cannot call conditionally.
 
 const UseStateBasics = () => {
   // console.log(useState('hello world'));
