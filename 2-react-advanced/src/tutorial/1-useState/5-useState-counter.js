@@ -30,6 +30,7 @@ const UseStateCounter = () => {
           increase
         </button>
       </section>
+
       <section style={{ margin: '4rem 0' }}>
         <h2>More Complex counter</h2>
         <h1>{value}</h1>
