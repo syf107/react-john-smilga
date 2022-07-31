@@ -13,7 +13,7 @@
 6. Tabs
 7. Slider
 
-#### Formsls
+#### Forms
 
 8. Lorem Ipsum Generator
 9. Color Shades Generator
